@@ -27,4 +27,5 @@ Time Managment made easy!
 
 2. Let Veritas's simple user interface guide you the rest of the way! The instructions are very clear within the software, so I shouldn't have to explain it. Hope my tool helps!
 
+(P.S) DO NOT mess with any of the other code unless you know what you are doing. You could break it.
 
