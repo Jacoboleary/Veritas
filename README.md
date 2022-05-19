@@ -1,4 +1,5 @@
 # Veritas
+<img width="140" alt="Screen Shot 2022-05-19 at 12 25 27 PM" src="https://user-images.githubusercontent.com/66446252/169350463-0ea39a96-d71f-429f-885b-646877edfd8b.png">
 Time Managment made easy!
 
 # How to install?
@@ -18,3 +19,12 @@ Time Managment made easy!
 6. Click "Open" on the main.Lua you just downloaded from my Repo.
 
 7. Done!
+
+# How to use?
+
+1. Replace the contents of the strings here with your own name or whatever you want your username to be, and the pasword you want.
+<img width="301" alt="Screen Shot 2022-05-19 at 12 22 44 PM" src="https://user-images.githubusercontent.com/66446252/169349948-2370adc7-0fe5-45be-a9ec-26b1e6105361.png">
+
+2. Let Veritas's simple user interface guide you the rest of the way! The instructions are very clear within the software, so I shouldn't have to explain it. Hope my tool helps!
+
+
