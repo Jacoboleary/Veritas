@@ -4,7 +4,7 @@ Time Managment made easy!
 
 # How to install?
 1. Sign up for Replit ([https://replit.com/~]) and press the "+" button under "Create" to create a new repl!
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/66446252/169884469-2633967a-4da3-4fe9-b503-15f25f9fc132.gif)
+![Home - Replit (1)](https://user-images.githubusercontent.com/66446252/169885500-440d7ff2-0fc3-48c3-b1e1-fdf7ec594365.gif)
 
 2. Change the name of the repl to anything you like (make sure you have "Lua" language selected)!
 
