@@ -4,11 +4,12 @@ Time Managment made easy!
 
 # How to install?
 1. Sign up for Replit ([https://replit.com/~]) and press the "+" button under "Create" to create a new repl!
-![Cropped_Video (2)](https://user-images.githubusercontent.com/66446252/169886973-c8b50452-cea5-4130-973e-8bc6a850ca3d.gif)
 
 2. Change the name of the repl to anything you like (make sure you have "Lua" language selected)!
 
 3. Click "Create Repl". 
+
+![Cropped_Video (4)](https://user-images.githubusercontent.com/66446252/169887199-882458be-01d5-4f99-8cad-55bf5febfb99.gif)
 
 4. Click the three dots next to the "main.lua" file, and press delete.
 <img width="267" alt="Screen Shot 2022-05-19 at 12 14 23 PM" src="https://user-images.githubusercontent.com/66446252/169348317-fdec80e2-34ec-4d96-82be-12933c7b988c.png">
