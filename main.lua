@@ -1,5 +1,5 @@
 --variables
-
+--Make sure to type "Yes" for the notifcations instead of done!
 local list = {}
 local scheduele = {}
 local priorities = {}
